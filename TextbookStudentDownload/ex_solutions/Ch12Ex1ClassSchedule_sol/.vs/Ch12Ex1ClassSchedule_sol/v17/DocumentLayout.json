@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch12ex1classschedule_sol\\classschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch12ex1classschedule_sol\\classschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch12ex1classschedule_sol\\classschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch12ex1classschedule_sol\\classschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch12ex1classschedule_sol\\classschedule\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10C4CCC0-1C58-4C56-8665-AA105BC20EEB}|ClassSchedule\\ClassSchedule.csproj|solutionrelative:classschedule\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "ClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "RelativeToolTip": "ClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T15:54:59.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "RelativeToolTip": "ClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T15:41:48.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "RelativeDocumentMoniker": "ClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "RelativeToolTip": "ClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T15:34:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "ClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T15:28:47.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "ClassSchedule\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch12Ex1ClassSchedule_sol\\ClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "ClassSchedule\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:25:02.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

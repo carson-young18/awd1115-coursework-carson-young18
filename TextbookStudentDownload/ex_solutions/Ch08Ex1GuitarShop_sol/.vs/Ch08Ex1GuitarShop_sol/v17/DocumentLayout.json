@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch08ex1guitarshop_sol\\guitarshop\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch08ex1guitarshop_sol\\guitarshop\\models\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch08ex1guitarshop_sol\\guitarshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch08ex1guitarshop_sol\\guitarshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|c:\\users\\evangudmestad\\desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\ch08ex1guitarshop_sol\\guitarshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470E9425-B5AD-4D94-8146-11D14F667BC8}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Models\\ShopContext.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:32:14.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\appsettings.json",
+              "RelativeDocumentMoniker": "GuitarShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\appsettings.json",
+              "RelativeToolTip": "GuitarShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-15T14:29:35.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Program.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Program.cs",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Program.cs",
+              "RelativeToolTip": "GuitarShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:29:32.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:29:10.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Models\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\ProductsViewModel.cs",
+              "ToolTip": "C:\\Users\\evangudmestad\\Desktop\\aspnet_core_mvc\\student_download\\ex_solutions\\Ch08Ex1GuitarShop_sol\\GuitarShop\\Models\\ProductsViewModel.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\ProductsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T14:28:24.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
