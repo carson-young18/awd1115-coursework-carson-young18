@@ -1,0 +1,14 @@
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\bin\Debug\net8.0\Project8.exe
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\bin\Debug\net8.0\Project8.deps.json
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\bin\Debug\net8.0\Project8.runtimeconfig.json
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\bin\Debug\net8.0\Project8.dll
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\bin\Debug\net8.0\Project8.pdb
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.AssemblyInfoInputs.cache
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.AssemblyInfo.cs
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.csproj.CoreCompileInputs.cache
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.dll
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\refint\Project8.dll
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.pdb
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\Project8.genruntimeconfig.cache
+C:\Users\carso\Desktop\Ch1Temp\CSharpCrashCourse\Project8\obj\Debug\net8.0\ref\Project8.dll
