@@ -1,0 +1,30 @@
+﻿@model Quote
+@{
+    ViewData["Title"] = "Price Quotation";
+}
+
+<h2>Price Quotation</h2>
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<form asp-action="Index" method="post" class="form-group">
+    <div class="form-row">
+        <label>Subtotal:</label>
+		<input asp-for="Subtotal"/>
+    </div>
+	<div class="form-row">
+        <label>Discount Percent:</label>
+        <input asp-for="DiscountPercent"/>
+    </div>
+	<div class="form-row">
+		<label>Discount Amount:</label>
+		<span class="output">@Model.DiscountAmount.ToString("C")</span>
+	</div>
+	<div class="form-row">
+		<label>Total:</label>
+		<span class="output">@Model.Total.ToString("C")</span>
+	</div>
+
+	<button type="submit">Calculate</button>
+	<a asp-asp-controller="Home" asp-action="Index">Clear</a>
+</form>

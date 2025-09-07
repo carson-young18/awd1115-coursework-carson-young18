@@ -1,0 +1,23 @@
+﻿@model Subtraction
+@{
+	ViewBag.Title = "Subtraction Page";
+}
+
+<h1>Subtraction Page</h1>
+<form method="post" asp-action="Index">
+	<div>
+		<label class="form-label" asp-for="NumberOne">Number One</label>
+		<input class="form-control" asp-for="NumberOne" />
+	</div>
+	<div>
+		<label class="form-label" asp-for="NumberTwo">Number Two</label>
+		<input class="form-control" asp-for="NumberTwo" />
+	</div>
+	<div>
+		<label class="form-label" asp-for="Difference">Difference</label>
+		<input class="form-control" asp-for="Difference" readonly value="@Model.Difference" />
+	</div>
+	<div>
+		<button class="btn btn-primary" type="submit">Calculate Difference</button>
+	</div>
+</form>

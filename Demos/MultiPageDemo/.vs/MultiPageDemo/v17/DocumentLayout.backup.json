@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\demos\\multipagedemo\\mysite\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|solutionrelative:mysite\\controllers\\subtractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\demos\\multipagedemo\\mysite\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|solutionrelative:mysite\\controllers\\additioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\demos\\multipagedemo\\mysite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\demos\\multipagedemo\\mysite\\models\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|solutionrelative:mysite\\models\\subtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\demos\\multipagedemo\\mysite\\views\\subtraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\subtraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\demos\\multipagedemo\\mysite\\views\\addition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CECC160D-4E0F-481F-8C46-0B732B6914A8}|MySite\\MySite.csproj|solutionrelative:mysite\\views\\addition\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Views\\Addition\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Addition\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Views\\Addition\\Index.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Addition\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T16:32:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdditionController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Controllers\\AdditionController.cs",
+              "RelativeDocumentMoniker": "MySite\\Controllers\\AdditionController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Controllers\\AdditionController.cs",
+              "RelativeToolTip": "MySite\\Controllers\\AdditionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:21:15.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Subtraction.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Models\\Subtraction.cs",
+              "RelativeDocumentMoniker": "MySite\\Models\\Subtraction.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Models\\Subtraction.cs",
+              "RelativeToolTip": "MySite\\Models\\Subtraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:13:57.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T16:12:07.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Views\\Subtraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "MySite\\Views\\Subtraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Views\\Subtraction\\Index.cshtml",
+              "RelativeToolTip": "MySite\\Views\\Subtraction\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T16:11:41.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubtractionController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Controllers\\SubtractionController.cs",
+              "RelativeDocumentMoniker": "MySite\\Controllers\\SubtractionController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Demos\\MultiPageDemo\\MySite\\Controllers\\SubtractionController.cs",
+              "RelativeToolTip": "MySite\\Controllers\\SubtractionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:03:18.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
