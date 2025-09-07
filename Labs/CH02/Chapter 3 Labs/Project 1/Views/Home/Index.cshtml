@@ -1,0 +1,51 @@
+﻿@model Quote
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form asp-action="Index" method="post" class="container">
+    <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+    <div class="row mb-4">
+        <label asp-for="Subtotal" class="col-md-2 col-form-label">Subtotal:</label>
+        <div class="col-md-4">
+            <input asp-for="Subtotal" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <span asp-validation-for="Subtotal" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mb-4">
+        <label asp-for="DiscountPercent" class="col-md-2 col-form-label">Discount Percent:</label>
+        <div class="col-md-4">
+            <input asp-for="DiscountPercent" class="form-control" />
+        </div>
+        <div class="col-md-4">
+            <span asp-validation-for="DiscountPercent" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-md-2 col-form-label">Discount Amount:</label>
+        <div class="col-md-4">
+            <p class="form-control-plaintext">@Model.DiscountAmount.ToString("C")</p>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-md-2 col-form-label">Total:</label>
+        <div class="col-md-4">
+            <p class="form-control-plaintext">@Model.Total.ToString("C")</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-4 d-flex gap-2">
+            <button type="submit" class="btn btn-success">Calculate</button>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-success">Clear</a>
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+</form>
