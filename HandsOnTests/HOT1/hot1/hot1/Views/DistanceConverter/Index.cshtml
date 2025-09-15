@@ -1,0 +1,26 @@
+﻿@model DistanceConverter
+
+@{
+	ViewData["Title"] = "Distance Converter";
+}
+
+<div class="container mt-4">
+    <h2>Distance Converter</h2>
+
+    <form asp-action="Index" method="post">
+        <div class="form-floating mb-3">
+            <input asp-for="Inches" class="form-control" placeholder="Enter inches" />
+            <label asp-for="Inches"></label>
+            <span asp-validation-for="Inches" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Convert to cm</button>
+    </form>
+
+    @if (Model.Centimeters.HasValue)
+    {
+        <div class="alert alert-success mt-4">
+            @($"{Model.Inches:F2} inches is {Model.Centimeters:F2} centimeters")
+        </div>
+    }
+</div>
