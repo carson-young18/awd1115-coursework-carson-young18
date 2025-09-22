@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SalesOrdersApp.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container mt-4">
+    <h2>Products</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Short Description</th>
+                <th>Long Description</th>
+                <th>Image</th>
+                <th>Price</th>
+                <th>Qty</th>
+                <th>Category</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.ProductDescShort</td>
+                    <td>@item.ProductDescLong</td>
+                    <td>@item.ProductImage</td>
+                    <td>@item.ProductPrice.ToString("C")</td>
+                    <td>@item.ProductQty</td>
+                    <td>@item.Category?.CategoryName</td>
+                    <td>
+                        <a class="btn btn-sm btn-secondary" asp-action="AddEdit" asp-route-id="@item.ProductID">Edit</a>
+                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.ProductID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <a asp-action="AddEdit" class="btn btn-primary">Add Product</a>
+    </p>
+</div>
