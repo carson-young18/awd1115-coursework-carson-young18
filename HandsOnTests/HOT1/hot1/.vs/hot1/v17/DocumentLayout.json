@@ -42,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT1\\hot1\\hot1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "hot1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT1\\hot1\\hot1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "hot1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-14T21:03:18.998Z",
+              "IsPinned": true
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -128,18 +141,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T00:30:29.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT1\\hot1\\hot1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "hot1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT1\\hot1\\hot1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "hot1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-14T21:03:18.998Z"
             }
           ]
         }

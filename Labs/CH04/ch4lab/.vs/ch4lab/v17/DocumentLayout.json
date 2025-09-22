@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Migrations\\20250922014601_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactManager\\Migrations\\20250922014601_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\views\\contacts\\createedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contacts\\createedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch04\\ch4lab\\contactmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105DE642-B481-419B-803B-85584A9F162C}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250922014601_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Migrations\\20250922014601_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Migrations\\20250922014601_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Migrations\\20250922014601_InitialCreate.cs",
+              "RelativeToolTip": "ContactManager\\Migrations\\20250922014601_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:46:01.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:32:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:31:59.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contacts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:30:40.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\CreateEdit.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contacts\\CreateEdit.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\CreateEdit.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contacts\\CreateEdit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:30:19.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contacts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\Details.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contacts\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:28:03.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:27:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "ContactManager\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:21:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Program.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Program.cs",
+              "RelativeToolTip": "ContactManager\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:15:17.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\appsettings.json",
+              "RelativeToolTip": "ContactManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T01:13:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ContactManager\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:09:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Contact.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:01:20.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH04\\ch4lab\\ContactManager\\Models\\Category.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:00:22.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
