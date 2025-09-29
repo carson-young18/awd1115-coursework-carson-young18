@@ -1,0 +1,11 @@
+﻿@model Addition
+@{
+	ViewBag.Title = "Addition Page";
+}
+
+<h1>Addition Page</h1>
+
+<form method="post" asp-action="Index">
+	<label asp-for="NumberOne" class="form-label">Number One</label>
+	<button type="submit" class="btn btn-primary mt-2">Add</button>
+</form>
