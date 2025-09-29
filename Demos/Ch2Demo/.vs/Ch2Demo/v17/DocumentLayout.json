@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot2\\ch2demo\\project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|solutionrelative:project1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot2\\ch2demo\\project1\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|solutionrelative:project1\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot2\\ch2demo\\project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|solutionrelative:project1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot2\\ch2demo\\project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|solutionrelative:project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot2\\ch2demo\\project1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|solutionrelative:project1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot2\\ch2demo\\project1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920BAC1B-313D-453D-B8F0-73C7D1B9E8F4}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T19:39:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T19:24:59.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FutureValueModel.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Models\\FutureValueModel.cs",
+              "RelativeDocumentMoniker": "Project1\\Models\\FutureValueModel.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Models\\FutureValueModel.cs",
+              "RelativeToolTip": "Project1\\Models\\FutureValueModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:20:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Program.cs",
+              "RelativeDocumentMoniker": "Project1\\Program.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Program.cs",
+              "RelativeToolTip": "Project1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:07:21.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T19:01:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT2\\Ch2Demo\\Project1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T18:38:00.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
