@@ -1,0 +1,6 @@
+My project proposal is a web application for the Runescape video game. Users will be able to create unique accounts for the site, and then will be able 
+to add Runescape accounts to their tracker in order to see it's activity history. Users can monitor any Runescape account, even ones already being tracked,
+making the Runescape accounts database one-to-many. Activities that are gathered via the Runescape API will be stored and will be unique to the Runescape
+account being tracked, creating a one-to-one relationship. Users will be able to create and update their application accounts, and add or delete which
+Runescape accounts they are tracking on their profile. The site will validate that a Runescape account exists before attempting to track it, as well as
+validating the info used to create user accounts. State will be used to keep users logged in upon return to the site. 
