@@ -1,0 +1,15 @@
+﻿@model TripPlannerApp.Models.ViewModels.TripAccommodationViewModel
+
+<form asp-action="AddAccommodation" method="post">
+    <div class="mb-3">
+        <label>Phone</label>
+        <input asp-for="AccommodationPhone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="AccommodationEmail" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-dark">Next</button>
+    <a asp-action="Cancel" class="btn btn-secondary">Cancel</a>
+</form>

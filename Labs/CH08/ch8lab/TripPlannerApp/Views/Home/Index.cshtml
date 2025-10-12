@@ -1,0 +1,60 @@
+﻿@model IEnumerable<TripPlannerApp.Models.Trip>
+
+@{
+    ViewData["Title"] = "My Trip Log";
+}
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+
+<a class="btn btn-secondary my-2" asp-action="AddDestination">Add Trip</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Destination</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Accommodations</th>
+            <th>Things To Do</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var trip in Model)
+        {
+            <tr>
+                <td>@trip.Destination</td>
+                <td>@trip.StartDate.ToShortDateString()</td>
+				<td>@trip.EndDate.ToShortDateString()</td>
+                <td>
+                    <div>@trip.Accommodation</div>
+                    @if(trip.AccommodationPhone != null)
+                    {
+                        <div>Phone: @trip.AccommodationPhone</div>
+                    }
+                    @if(trip.AccommodationEmail != null)
+                    {
+                        <div>Email: @trip.AccommodationEmail</div>
+					}
+                </td>
+                <td>
+                    @if (trip.Activity1 != null)
+                    {
+                        <div>@trip.Activity1</div>
+                    }
+                    @if (trip.Activity2 != null)
+                    {
+                        <div>@trip.Activity2</div>
+                    }
+                    @if (trip.Activity3 != null)
+                    {
+                        <div>@trip.Activity3</div>
+					}
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
