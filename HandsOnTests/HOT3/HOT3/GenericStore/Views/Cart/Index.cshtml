@@ -1,0 +1,56 @@
+﻿@model GenericStore.ViewModels.CartViewModel
+@{
+    ViewData["Title"] = "Your Cart";
+}
+
+<h2>Your Cart</h2>
+
+@if (TempData["CartMessage"] != null)
+{
+    <div class="alert alert-info">@TempData["CartMessage"]</div>
+}
+
+@if (!Model.Items.Any())
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead><tr><th>Item</th><th>Qty</th><th>Unit</th><th>Total</th><th></th></tr></thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>
+                        <img src="~/images/@item.ImageFileName" style="width:60px;height:60px;object-fit:cover" />
+                        @item.ProductName
+                    </td>
+                    <td>@item.Quantity</td>
+                    <td>@item.UnitPrice.ToString("C")</td>
+                    <td>@item.LineTotal.ToString("C")</td>
+                    <td>
+                        <form asp-action="Remove" method="post" style="display:inline">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button type="submit" class="btn btn-sm btn-danger">Remove</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="d-flex justify-content-between align-items-center mt-3">
+        <div>
+            <p><strong>Total Items:</strong> @Model.TotalQuantity</p>
+            <p><strong>Total Price:</strong> @Model.TotalPrice.ToString("C")</p>
+        </div>
+
+        <div>
+            <form asp-action="Purchase" method="post" class="d-inline">
+                <input type="hidden" name="customerName" value="Guest" />
+                <button type="submit" class="btn btn-success">Complete Purchase</button>
+            </form>
+        </div>
+    </div>
+}
