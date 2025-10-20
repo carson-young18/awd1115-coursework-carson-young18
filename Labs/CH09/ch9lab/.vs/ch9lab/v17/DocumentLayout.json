@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\listingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\bidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\commentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ibidsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\icommentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\ilistingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\services\\listingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T02:12:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Auctions\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Auctions\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T02:07:46.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:56:08.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:55:46.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Auctions\\PaginatedList.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\PaginatedList.cs",
+              "RelativeToolTip": "Auctions\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:45:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyBids.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\MyBids.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\MyBids.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\MyBids.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\MyBids.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:44:50.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Index.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:44:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Edit.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:44:05.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Details.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:43:34.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Create.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Listings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:42:47.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:42:31.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Auctions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:42:12.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListingVM.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\ListingVM.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\ListingVM.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\ListingVM.cs",
+              "RelativeToolTip": "Auctions\\Models\\ListingVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:41:20.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BidsService.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\BidsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\BidsService.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\BidsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\BidsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:40:24.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\CommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\CommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:40:05.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBidsService.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\IBidsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IBidsService.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\IBidsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\IBidsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:39:44.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICommentsService.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\ICommentsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\ICommentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:39:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auctions\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auctions\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:35:21.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Auctions\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Auctions\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T01:35:03.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ListingsService.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\ListingsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\ListingsService.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\ListingsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\ListingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:29:06.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IListingsService.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\IListingsService.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\Services\\IListingsService.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\Services\\IListingsService.cs",
+              "RelativeToolTip": "Auctions\\Data\\Services\\IListingsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:28:24.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Controllers\\ListingsController.cs",
+              "RelativeDocumentMoniker": "Auctions\\Controllers\\ListingsController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Controllers\\ListingsController.cs",
+              "RelativeToolTip": "Auctions\\Controllers\\ListingsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:23:39.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Program.cs",
+              "RelativeDocumentMoniker": "Auctions\\Program.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Program.cs",
+              "RelativeToolTip": "Auctions\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:16:00.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\appsettings.json",
+              "RelativeDocumentMoniker": "Auctions\\appsettings.json",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\appsettings.json",
+              "RelativeToolTip": "Auctions\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T01:11:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Auctions\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Auctions\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:10:32.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\Comment.cs",
+              "RelativeToolTip": "Auctions\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:09:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\Bid.cs",
+              "RelativeToolTip": "Auctions\\Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:08:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\Listing.cs",
+              "RelativeDocumentMoniker": "Auctions\\Models\\Listing.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Models\\Listing.cs",
+              "RelativeToolTip": "Auctions\\Models\\Listing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:04:41.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
