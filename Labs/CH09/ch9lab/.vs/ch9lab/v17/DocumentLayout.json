@@ -147,8 +147,7 @@
               "RelativeToolTip": "Auctions\\wwwroot\\css\\site.css",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-20T02:07:46.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T02:07:46.04Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "Auctions\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:56:08.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:56:08.799Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "Auctions\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:55:46.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:55:46.498Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "Auctions\\PaginatedList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:45:55.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:45:55.713Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\MyBids.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:44:50.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:44:50.837Z"
             },
             {
               "$type": "Document",
@@ -212,8 +207,7 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:44:16.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:44:16.989Z"
             },
             {
               "$type": "Document",
@@ -225,8 +219,7 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Edit.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:44:05.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:44:05.152Z"
             },
             {
               "$type": "Document",
@@ -238,8 +231,7 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:43:34.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:43:34.428Z"
             },
             {
               "$type": "Document",
@@ -251,8 +243,7 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:42:47.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:42:47.898Z"
             },
             {
               "$type": "Document",
@@ -264,8 +255,7 @@
               "RelativeToolTip": "Auctions\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:42:31.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:42:31.529Z"
             },
             {
               "$type": "Document",
@@ -277,8 +267,7 @@
               "RelativeToolTip": "Auctions\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:42:12.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:42:12.433Z"
             },
             {
               "$type": "Document",
@@ -290,8 +279,7 @@
               "RelativeToolTip": "Auctions\\Models\\ListingVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:41:20.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:41:20.307Z"
             },
             {
               "$type": "Document",
@@ -303,8 +291,7 @@
               "RelativeToolTip": "Auctions\\Data\\Services\\BidsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:40:24.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:40:24.408Z"
             },
             {
               "$type": "Document",
@@ -316,8 +303,7 @@
               "RelativeToolTip": "Auctions\\Data\\Services\\CommentsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:40:05.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:40:05.046Z"
             },
             {
               "$type": "Document",
@@ -329,8 +315,7 @@
               "RelativeToolTip": "Auctions\\Data\\Services\\IBidsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:39:44.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:39:44.51Z"
             },
             {
               "$type": "Document",
@@ -342,8 +327,7 @@
               "RelativeToolTip": "Auctions\\Data\\Services\\ICommentsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:39:24.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:39:24.399Z"
             },
             {
               "$type": "Document",
@@ -355,8 +339,7 @@
               "RelativeToolTip": "Auctions\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:35:21.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:35:21.531Z"
             },
             {
               "$type": "Document",
@@ -368,8 +351,7 @@
               "RelativeToolTip": "Auctions\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:35:03.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:35:03.429Z"
             },
             {
               "$type": "Document",
@@ -381,8 +363,7 @@
               "RelativeToolTip": "Auctions\\Data\\Services\\ListingsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:29:06.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:29:06.727Z"
             },
             {
               "$type": "Document",
@@ -394,8 +375,7 @@
               "RelativeToolTip": "Auctions\\Data\\Services\\IListingsService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:28:24.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:28:24.662Z"
             },
             {
               "$type": "Document",
@@ -407,8 +387,7 @@
               "RelativeToolTip": "Auctions\\Controllers\\ListingsController.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAAAGMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:23:39.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:23:39.362Z"
             },
             {
               "$type": "Document",
@@ -420,8 +399,7 @@
               "RelativeToolTip": "Auctions\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwC8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:16:00.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:16:00.821Z"
             },
             {
               "$type": "Document",
@@ -433,8 +411,7 @@
               "RelativeToolTip": "Auctions\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-20T01:11:37.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:11:37.683Z"
             },
             {
               "$type": "Document",
@@ -446,8 +423,7 @@
               "RelativeToolTip": "Auctions\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:10:32.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:10:32.421Z"
             },
             {
               "$type": "Document",
@@ -459,8 +435,7 @@
               "RelativeToolTip": "Auctions\\Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:09:28.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:09:28.053Z"
             },
             {
               "$type": "Document",
@@ -472,8 +447,7 @@
               "RelativeToolTip": "Auctions\\Models\\Bid.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:08:14.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:08:14.291Z"
             },
             {
               "$type": "Document",
@@ -485,8 +459,7 @@
               "RelativeToolTip": "Auctions\\Models\\Listing.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T01:04:41.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T01:04:41.654Z"
             }
           ]
         }
