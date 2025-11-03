@@ -1,0 +1,72 @@
+﻿@model Employee
+@{
+	ViewData["Title"] = "Add Employee";
+}
+@section Scripts{
+	<script src="`~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="`~/lib/jquery-validation-unobstrusive/jquery.validate.unobstrusive.min.js"></script>
+}
+
+<h2>Add Employee</h2>
+
+<form asp-action="Add" method="post">
+	<div class="row mb-3">
+		<label asp-for="FirstName" class="col-form-label col-md-2"></label>
+		<div class="col-md-4">
+			<input asp-for="FirstName" class="form-control" />
+		</div>
+		<div class="col">
+			<span asp-validation-for="FirstName" class="text-danger"></span>
+		</div>
+	</div>
+
+	<div class="row mb-3">
+		<label asp-for="LastName" class="col-form-label col-md-2"></label>
+		<div class="col-md-4">
+			<input asp-for="LastName" class="form-control" />
+		</div>
+		<div class="col">
+			<span asp-validation-for="LastName" class="text-danger"></span>
+		</div>
+	</div>
+
+	<div class="row mb-3">
+		<label asp-for="DOB" class="col-form-label col-md-2"></label>
+		<div class="col-md-4">
+			<input asp-for="DOB" class="form-control" type="text" />
+		</div>
+		<div class="col">
+			<span asp-validation-for="DOB" class="text-danger"></span>
+		</div>
+	</div>
+
+	<div class="row mb-3">
+		<label asp-for="DateOfHire" class="col-form-label col-md-2"></label>
+		<div class="col-md-4">
+			<input asp-for="DateOfHire" class="form-control" type="text" />
+		</div>
+		<div class="col">
+			<span asp-validation-for="DateOfHire" class="text-danger"></span>
+		</div>
+	</div>
+
+	<div class="row mb-3">
+		<label asp-for="ManagerId" class="col-form-label col-md-2"></label>
+		<div class="col-md-4">
+			<select asp-for="ManagerId" class="form-select"
+					asp-items="@(new SelectList(ViewBag.Employees, "EmployeeId", "FullName"))">
+				<option value="0"></option>"
+			</select>
+		</div>
+		<div class="col">
+			<span asp-validation-for="ManagerId" class="text-danger"></span>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col">
+			<button type="submit" class="btn btn-primary">Add</button>
+			<a asp-action="Index" asp-controller="Home" class="btn btn-outline-primary">Cancel</a>
+		</div>
+	</div>
+</form>
