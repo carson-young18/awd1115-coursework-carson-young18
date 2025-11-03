@@ -1,0 +1,36 @@
+﻿@model IEnumerable<AppointmentScheduler.Models.Appointment>
+@{
+    ViewData["Title"] = "Manage Appointments";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All Appointments</h2>
+
+<table class="table table-bordered table-striped mt-3">
+    <thead class="table-dark">
+        <tr>
+            <th>Customer</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Phone</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appt in Model.OrderBy(a => a.StartDateTime))
+        {
+            <tr>
+                <td>@appt.Customer?.Username</td>
+                <td>@appt.StartDateTime.ToString("g")</td>
+                <td>@appt.EndDateTime.ToString("g")</td>
+                <td>@appt.Customer?.Phone</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" asp-area="Admin" asp-controller="Appointments" asp-action="Edit" asp-route-id="@appt.AppointmentId">Edit</a>
+                    <form asp-area="Admin" asp-controller="Appointments" asp-action="Delete" asp-route-id="@appt.AppointmentId" method="post" style="display:inline">
+                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,29 @@
+﻿@model AppointmentScheduler.Models.Appointment
+@{
+    ViewData["Title"] = "Create Appointment";
+}
+
+<h2>Schedule New Appointment</h2>
+
+<form asp-action="CreateAppointment" method="post" class="mt-3">
+    <div class="mb-3">
+        <label asp-for="CustomerId" class="form-label">Customer</label>
+        <select asp-for="CustomerId" asp-items="@(new SelectList(ViewBag.Customers, "CustomerId", "Username"))" class="form-select">
+			<option value="">-- Select Customer --</option>
+        </select>
+        <span asp-validation-for="CustomerId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StartDateTime" class="form-label"></label>
+        <input asp-for="StartDateTime" type="datetime-local" class="form-control" />
+        <span asp-validation-for="StartDateTime" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
