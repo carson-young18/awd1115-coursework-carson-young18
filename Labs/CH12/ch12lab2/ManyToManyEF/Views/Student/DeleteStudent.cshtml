@@ -1,0 +1,10 @@
+﻿@model Student
+@{
+	ViewData["Title"] = "Enroll New Student";
+}
+
+<h1>Delete Student</h1>
+<form asp-action="DeleteStudent" method="post">
+	<input type="hidden" name="studentId" asp-for="@Model.StudentId" />
+	<button type="submit" class="btn btn-danger mt-3">Confirm Delete Student</button>
+</form>
