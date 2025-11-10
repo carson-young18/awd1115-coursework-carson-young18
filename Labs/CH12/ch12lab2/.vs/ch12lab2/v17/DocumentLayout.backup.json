@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{BD9DCADF-FC85-4103-922F-65B51078E1D6}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BD9DCADF-FC85-4103-922F-65B51078E1D6}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab2\\manytomanyef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD9DCADF-FC85-4103-922F-65B51078E1D6}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD9DCADF-FC85-4103-922F-65B51078E1D6}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab2\\manytomanyef\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD9DCADF-FC85-4103-922F-65B51078E1D6}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Program.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Program.cs",
@@ -67,7 +71,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T04:27:36.548Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ManyToManyEF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T05:30:50.03Z",
               "EditorCaption": ""
             },
             {
@@ -78,14 +94,14 @@
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Courses\\Details.cshtml",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Courses\\Details.cshtml",
               "RelativeToolTip": "ManyToManyEF\\Views\\Courses\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-10T05:29:09.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Controllers\\CoursesController.cs",
@@ -93,12 +109,11 @@
               "RelativeToolTip": "ManyToManyEF\\Controllers\\CoursesController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T05:27:23.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T05:27:23.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DeleteStudent.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Student\\DeleteStudent.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\DeleteStudent.cshtml",
@@ -106,12 +121,11 @@
               "RelativeToolTip": "ManyToManyEF\\Views\\Student\\DeleteStudent.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T05:21:24.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T05:21:24.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ChangeEnrollment.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Student\\ChangeEnrollment.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\ChangeEnrollment.cshtml",
@@ -119,12 +133,11 @@
               "RelativeToolTip": "ManyToManyEF\\Views\\Student\\ChangeEnrollment.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T05:02:52.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T05:02:52.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EnrollNewStudent.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Student\\EnrollNewStudent.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\EnrollNewStudent.cshtml",
@@ -132,12 +145,11 @@
               "RelativeToolTip": "ManyToManyEF\\Views\\Student\\EnrollNewStudent.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T04:46:14.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:46:14.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\Index.cshtml",
@@ -145,12 +157,11 @@
               "RelativeToolTip": "ManyToManyEF\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T04:27:10.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:27:10.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Controllers\\StudentController.cs",
@@ -158,12 +169,11 @@
               "RelativeToolTip": "ManyToManyEF\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAcwG4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:25:23.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:25:23.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RankenContext.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Models\\RankenContext.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Models\\RankenContext.cs",
@@ -171,12 +181,11 @@
               "RelativeToolTip": "ManyToManyEF\\Models\\RankenContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:15:55.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:15:55.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Models\\Student.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Models\\Student.cs",
@@ -184,12 +193,11 @@
               "RelativeToolTip": "ManyToManyEF\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:14:11.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:14:11.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab2\\ManyToManyEF\\Models\\Course.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Models\\Course.cs",
@@ -197,8 +205,7 @@
               "RelativeToolTip": "ManyToManyEF\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T04:11:30.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T04:11:30.088Z"
             }
           ]
         }
