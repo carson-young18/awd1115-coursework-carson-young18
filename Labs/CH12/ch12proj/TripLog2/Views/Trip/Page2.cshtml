@@ -1,0 +1,30 @@
+﻿@model Page2
+
+@{
+    ViewData["Title"] = "Add Trip";
+}
+
+<h2>Add Trip</h2>
+
+<h4>Hold down the control key to select multiple activities</h4>
+
+<form method="post" asp-action="AddTripFinal">
+
+    @* Hidden fields to retain Page 1 data *@
+    <input type="hidden" asp-for="DestinationId" />
+    <input type="hidden" asp-for="AccomodationId" />
+    <input type="hidden" asp-for="StartDate" />
+    <input type="hidden" asp-for="EndDate" />
+
+    <div class="form-group">
+        <label>Choose Activities</label>
+        <select asp-for="SelectedActivityIds"
+                asp-items="Model.Activities"
+                multiple="multiple"
+                class="form-control">
+        </select>
+        <span asp-validation-for="SelectedActivityIds" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Finish</button>
+</form>
