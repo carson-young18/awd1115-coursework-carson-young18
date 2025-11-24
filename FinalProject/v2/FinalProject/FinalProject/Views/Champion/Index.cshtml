@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Champion>
+@{
+	ViewBag.Title = "Champions";
+}
+
+<h1>Champions</h1>
+<a asp-action="Create">Create New Champion</a>
+
+
+<table class="table">
+	<thead>
+		<th>@Html.DisplayNameFor(model => model.Name)</th>
+		<th></th>
+	</thead>
+	<tbody>
+		@foreach (Champion champ in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => champ.Name)
+				</td>
+				<td>
+					<a asp-action="Details" asp-route-id="@champ.ChampionId">Details</a>
+					<a asp-action="Edit" asp-route-id="@champ.ChampionId">Edit</a>
+					<a asp-action="Delete" asp-route-id="@champ.ChampionId">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

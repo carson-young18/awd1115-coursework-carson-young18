@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Build>
+@{
+	ViewBag.Title = "Builds";
+}
+
+@functions{
+	string GetDeleteModalId(Build build)
+	{
+		return "#deleteModal" + build.BuildId;
+	}
+	string GetModalId(Build build)
+	{
+		return "deleteModal" + build.BuildId;
+	}
+}
+
+<h2>Builds</h2>
+
+<a asp-action="AddEdit" asp-controller="Build" class="btn btn-primary">Create New Build</a>
+
+<div class="row">
+	@foreach (Build build in Model)
+	{
+		<div class="col-md-4">
+			<form asp-action="Delete" asp-controller="Build" method="post">
+				<input type="hidden" asp-for="@build.BuildId" name="id" />
+				<div class="card" style="width: 18rem;">
+					<img src="@Url.Content($"https://ddragon.leagueoflegends.com/cdn/15.23.1/img/champion/{build?.Champion?.Name}.png")" class="card-img-top fixed-image-height" alt="@build?.Name" />
+
+					<div class="card-body">
+						<h5 class="card-title">@build.Name</h5>
+						<p class="card-text">@build.Champion.Name</p>
+						<p class="card-text">@build.Category.Name</p>
+						<p class="card-text">@build.TotalCost g</p>
+						<a class="btn btn-info" asp-controller="Build" asp-action="AddEdit" asp-route-id="@build.BuildId"><i class="bi bi-pencil-fill">Edit</i></a>
+						<button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="@GetDeleteModalId(build)">
+							<i class="bi bi-trash">Delete</i>
+						</button>
+						<div class="modal fade" id="@GetModalId(build)" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+							<div class="modal-dialog">
+								<div class="modal-content">
+									<div class="modal-header">
+										<h1 class="modal-title fs-5" id="exampleModalLabel">Delete @build.Name?</h1>
+										<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+									</div>
+									<div class="modal-footer">
+										<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+										<button type="submit" class="btn btn-danger">Delete</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	}
+</div>

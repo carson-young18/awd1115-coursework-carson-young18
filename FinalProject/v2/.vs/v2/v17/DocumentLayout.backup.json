@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\areas\\app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\areas\\app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\areas\\app\\controllers\\rsactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\areas\\app\\controllers\\rsactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\runelog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D325FE27-28EB-4D09-BCBD-6E382C8FB658}|RuneLog\\RuneLog.csproj|solutionrelative:runelog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RuneLog\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "RuneLog\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T21:00:22.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RuneLog\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "RuneLog\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T20:58:51.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "RuneLog\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "RuneLog\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-23T20:58:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RuneLog\\Areas\\App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RuneLog\\Areas\\App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T20:48:36.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RuneLog\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RuneLog\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T20:48:15.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Program.cs",
+              "RelativeDocumentMoniker": "RuneLog\\Program.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Program.cs",
+              "RelativeToolTip": "RuneLog\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:46:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RuneLog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RuneLog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T20:36:42.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RuneLog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RuneLog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T20:35:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RuneLog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RuneLog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:35:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RSActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\App\\Controllers\\RSActivityController.cs",
+              "RelativeDocumentMoniker": "RuneLog\\Areas\\App\\Controllers\\RSActivityController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\RuneLog\\Areas\\App\\Controllers\\RSActivityController.cs",
+              "RelativeToolTip": "RuneLog\\Areas\\App\\Controllers\\RSActivityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T20:35:17.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

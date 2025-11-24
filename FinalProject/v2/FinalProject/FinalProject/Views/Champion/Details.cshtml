@@ -1,0 +1,28 @@
+﻿@model Champion
+@{
+	ViewBag.Title = "Champion Details";
+}
+
+<h1>@Model.Name Details</h1>
+
+@if(Model.Builds != null && Model.Builds.Any())
+{
+	<h4>Builds</h4>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Build Name</th>
+				<th>Total Cost</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var build in Model.Builds)
+			{
+				<tr>
+					<td>@build.Name</td>
+					<td>@build.TotalCost</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}

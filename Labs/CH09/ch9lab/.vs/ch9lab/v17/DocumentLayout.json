@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -31,24 +43,12 @@
       "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\mybids.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|solutionrelative:auctions\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC69F62E-30C9-4B04-9B9B-A32D8B75D5AC}|Auctions\\Auctions.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch09\\ch9lab\\auctions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -122,19 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml.css",
@@ -147,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Auctions\\wwwroot\\css\\site.css",
@@ -159,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_LoginPartial.cshtml",
@@ -171,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Shared\\_Layout.cshtml",
@@ -183,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PaginatedList.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\PaginatedList.cs",
               "RelativeDocumentMoniker": "Auctions\\PaginatedList.cs",
@@ -195,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MyBids.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\MyBids.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\MyBids.cshtml",
@@ -207,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Index.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Index.cshtml",
@@ -215,23 +207,25 @@
               "RelativeToolTip": "Auctions\\Views\\Listings\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:44:16.989Z"
+              "WhenOpened": "2025-10-20T01:44:16.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Edit.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Edit.cshtml",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Edit.cshtml",
               "RelativeToolTip": "Auctions\\Views\\Listings\\Edit.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:44:05.152Z"
+              "WhenOpened": "2025-10-20T01:44:05.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Details.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Details.cshtml",
@@ -243,15 +237,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Create.cshtml",
               "RelativeDocumentMoniker": "Auctions\\Views\\Listings\\Create.cshtml",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Views\\Listings\\Create.cshtml",
               "RelativeToolTip": "Auctions\\Views\\Listings\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T01:42:47.898Z"
+              "WhenOpened": "2025-10-20T01:42:47.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -387,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ListingsController.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Controllers\\ListingsController.cs",
               "RelativeDocumentMoniker": "Auctions\\Controllers\\ListingsController.cs",
@@ -399,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH09\\ch9lab\\Auctions\\Program.cs",
               "RelativeDocumentMoniker": "Auctions\\Program.cs",

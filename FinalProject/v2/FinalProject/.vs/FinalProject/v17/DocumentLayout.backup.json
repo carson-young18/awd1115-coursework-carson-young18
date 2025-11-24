@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\finalproject\\finalproject\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\finalproject\\finalproject\\views\\build\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\build\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\finalproject\\finalproject\\views\\build\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\views\\build\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\finalproject\\v2\\finalproject\\finalproject\\models\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675911B0-8C59-4590-B57C-F297E6ACD27E}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\models\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Build.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Models\\Build.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Models\\Build.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Models\\Build.cs",
+              "RelativeToolTip": "FinalProject\\Models\\Build.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:36:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Views\\Build\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Build\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Views\\Build\\AddEdit.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Build\\AddEdit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T00:37:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Views\\Build\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalProject\\Views\\Build\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Views\\Build\\Index.cshtml",
+              "RelativeToolTip": "FinalProject\\Views\\Build\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T23:15:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Controllers\\BuildController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\BuildController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\FinalProject\\v2\\FinalProject\\FinalProject\\Controllers\\BuildController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\BuildController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAIwJ4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:13:41.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

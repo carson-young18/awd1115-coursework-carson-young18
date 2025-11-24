@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH11\\Ch11Lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch11\\ch11lab\\quarterlysalesapp\\views\\sales\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|solutionrelative:quarterlysalesapp\\views\\sales\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch11\\ch11lab\\quarterlysalesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|solutionrelative:quarterlysalesapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch11\\ch11lab\\quarterlysalesapp\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|solutionrelative:quarterlysalesapp\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch11\\ch11lab\\quarterlysalesapp\\views\\sales\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|solutionrelative:quarterlysalesapp\\views\\sales\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB80C4F4-4FBF-49BF-87AF-A09E1BA0D3C5}|QuarterlySalesApp\\QuarterlySalesApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch11\\ch11lab\\quarterlysalesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH11\\Ch11Lab\\QuarterlySalesApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuarterlySalesApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH11\\Ch11Lab\\QuarterlySalesApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuarterlySalesApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T04:50:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH11\\Ch11Lab\\QuarterlySalesApp\\Views\\Sales\\Add.cshtml",
               "RelativeDocumentMoniker": "QuarterlySalesApp\\Views\\Sales\\Add.cshtml",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH11\\Ch11Lab\\QuarterlySalesApp\\Views\\Sales\\Add.cshtml",
               "RelativeToolTip": "QuarterlySalesApp\\Views\\Sales\\Add.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-03T02:49:47.57Z",
               "EditorCaption": ""
@@ -47,11 +64,12 @@
               "RelativeToolTip": "QuarterlySalesApp\\Views\\Employee\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-03T02:47:38.597Z"
+              "WhenOpened": "2025-11-03T02:47:38.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH11\\Ch11Lab\\QuarterlySalesApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "QuarterlySalesApp\\Views\\Shared\\_Layout.cshtml",

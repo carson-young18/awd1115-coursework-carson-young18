@@ -1,0 +1,28 @@
+﻿@model Item
+@{
+	ViewBag.Title = "Item Details";
+}
+
+<h1>@Model.Name Details</h1>
+
+@if(Model.BuildItems != null && Model.BuildItems.Any())
+{
+	<h4>Builds</h4>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Build Name</th>
+				<th>Total Cost</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach(var buildItem in Model.BuildItems)
+			{
+				<tr>
+					<td>@buildItem.Build.Name</td>
+					<td>@buildItem.Build.TotalCost</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+}

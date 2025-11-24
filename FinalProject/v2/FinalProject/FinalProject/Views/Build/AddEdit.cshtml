@@ -1,0 +1,44 @@
+﻿@model Build
+@{
+	ViewBag.Title = $"{ViewBag.Operation} Build";
+}
+
+<h1>@ViewBag.Operation Build</h1>
+
+<form asp-action="AddEdit" method="post">
+	<input type="hidden" asp-for="BuildId" />
+
+	<div class="form-group">
+		<label asp-for="Name"></label>
+		<input asp-for="Name" class="form-control" name="Name" />
+		<span asp-validation-for="Name" class="text-danger"></span>
+	</div>
+	<div class="row">
+		<div class="col">
+			<label asp-for="CategoryId" class="form-label">Category</label>
+			<select asp-for="CategoryId" class="form-select" asp-items="@(new SelectList(ViewBag.Categories, "CategoryId", "Name"))">
+				<option value="">Choose a Category</option>
+			</select>
+		</div>
+		<div class="col">
+			<label asp-for="ChampionId" class="form-label">Champion</label>
+			<select asp-for="ChampionId" class="form-select" asp-items="@(new SelectList(ViewBag.Champions, "ChampionId", "Name"))">
+				<option value="">Choose a Champion</option>
+			</select>
+		</div>
+	</div>
+	<div class="row">
+		<div class="form-check-inline">
+			@foreach (Item item in ViewBag.Items)
+			{
+				bool isChecked = Model.BuildItems != null && Model.BuildItems.Any(i => i.ItemId == item.ItemId);
+				<input type="checkbox" class="form-check-input" id="@item.ItemId" name="itemIds" value="@item.ItemId"
+					   @(isChecked ? "checked" : "") />
+				<label class="form-check-label" for="@item.ItemId">@item.Name</label>
+
+			}
+		</div>
+	</div>
+	<button type="submit" class="btn btn-primary">Save</button>
+	<a asp-action="Index" asp-controller="Build" class="btn btn-outline-dark">Cancel</a>
+</form>
