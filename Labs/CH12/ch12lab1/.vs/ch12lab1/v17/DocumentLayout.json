@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\models\\domainmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\models\\domainmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\models\\domainmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\models\\domainmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\models\\configuration\\teacherconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +23,20 @@
       "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\models\\domainmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\models\\domainmodels\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\models\\domainmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\models\\domainmodels\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{383D5261-A08E-4145-BEAC-8A8D78159F86}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch12\\ch12lab1\\rankenclassschedule\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Models\\DomainModels\\Class.cs",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Models\\DomainModels\\Class.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "RankenClassSchedule\\Models\\DomainModels\\Class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T03:46:15.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T03:46:15.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Models\\DomainModels\\Teacher.cs",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Models\\DomainModels\\Teacher.cs",
@@ -92,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TeacherConfig.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Models\\Configuration\\TeacherConfig.cs",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Models\\Configuration\\TeacherConfig.cs",
@@ -105,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Views\\Class\\Delete.cshtml",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Class\\Delete.cshtml",
@@ -118,33 +117,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "AddEdit.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
               "RelativeToolTip": "RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-10T03:28:35.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ClassController.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Controllers\\ClassController.cs",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\ClassController.cs",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Controllers\\ClassController.cs",
               "RelativeToolTip": "RankenClassSchedule\\Controllers\\ClassController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T03:25:05.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
@@ -152,12 +151,11 @@
               "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T03:04:59.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T03:04:59.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T02:59:22.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T02:59:22.563Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T02:14:12.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T02:14:12.604Z"
             },
             {
               "$type": "Document",
@@ -191,18 +187,17 @@
               "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T01:54:57.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T01:54:57.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\TeacherController.cs",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH12\\ch12lab1\\RankenClassSchedule\\Controllers\\TeacherController.cs",
               "RelativeToolTip": "RankenClassSchedule\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T01:51:54.426Z",
               "EditorCaption": ""
@@ -217,8 +212,7 @@
               "RelativeToolTip": "RankenClassSchedule\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T01:37:58.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T01:37:58.759Z"
             },
             {
               "$type": "Document",
@@ -230,8 +224,7 @@
               "RelativeToolTip": "RankenClassSchedule\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAqwCUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T01:31:11.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T01:31:11.906Z"
             }
           ]
         }
