@@ -4766,23 +4766,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\evangudmestad\\.nuget\\packages\\": {},
+    "C:\\Users\\carso\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evangudmestad\\Desktop\\AWD 1115\\FA25\\YoungCarson\\HandsOnTests\\HOT3\\HOT3\\GenericStore\\GenericStore.csproj",
+      "projectUniqueName": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT3\\HOT3\\GenericStore\\GenericStore.csproj",
       "projectName": "GenericStore",
-      "projectPath": "C:\\Users\\evangudmestad\\Desktop\\AWD 1115\\FA25\\YoungCarson\\HandsOnTests\\HOT3\\HOT3\\GenericStore\\GenericStore.csproj",
-      "packagesPath": "C:\\Users\\evangudmestad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evangudmestad\\Desktop\\AWD 1115\\FA25\\YoungCarson\\HandsOnTests\\HOT3\\HOT3\\GenericStore\\obj\\",
+      "projectPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT3\\HOT3\\GenericStore\\GenericStore.csproj",
+      "packagesPath": "C:\\Users\\carso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT3\\HOT3\\GenericStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\evangudmestad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4791,7 +4791,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4854,7 +4853,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

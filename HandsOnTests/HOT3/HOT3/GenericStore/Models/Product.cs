@@ -34,7 +34,6 @@ namespace GenericStore.Models
         [Required]
         public string ImageFileName { get; set; } = string.Empty;
 
-        [Required]
         public string Slug { get; set; } = string.Empty;
 
         public Category? Category { get; set; }

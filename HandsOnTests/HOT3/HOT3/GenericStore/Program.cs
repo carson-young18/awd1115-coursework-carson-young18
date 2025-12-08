@@ -34,9 +34,8 @@ app.UseSession();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "admin",
-    pattern: "admin/{controller=Home}/{action=Index}/{id:int?}/{slug?}/",
-    defaults: new { area = "Admin" });
+    name: "areas",
+    pattern: "{area:exists}/{controller=Products}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
