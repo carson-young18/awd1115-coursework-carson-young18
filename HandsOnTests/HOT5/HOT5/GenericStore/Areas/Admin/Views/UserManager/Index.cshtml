@@ -1,0 +1,51 @@
+﻿@using GenericStore.ViewModels
+@model List<UserRolesViewModel>
+@{
+    ViewData["Title"] = "User Manager";
+}
+
+<h2>User Manager</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info">@TempData["Message"]</div>
+}
+
+<form asp-action="CreateAdminRole" method="post">
+    <button type="submit" class="btn btn-primary mb-3">Create Admin Role</button>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Roles</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@string.Join(", ", user.Roles)</td>
+                <td>
+                    <form asp-action="AddToAdmin" method="post" style="display:inline">
+                        <input type="hidden" name="userId" value="@user.UserId" />
+                        <button type="submit" class="btn btn-sm btn-success">Add to Admin</button>
+                    </form>
+                    <form asp-action="RemoveFromAdmin" method="post" style="display:inline">
+                        <input type="hidden" name="userId" value="@user.UserId" />
+                        <button type="submit" class="btn btn-sm btn-warning">Remove Admin</button>
+                    </form>
+                    <form asp-action="DeleteUser" method="post" style="display:inline">
+                        <input type="hidden" name="userId" value="@user.UserId" />
+                        <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,28 @@
+﻿@model GenericStore.Models.Product
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="card mb-3">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="~/images/@Model.ImageFileName" class="img-fluid rounded-start" alt="@Model.Name" />
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h3>@Model.Name</h3>
+                <p class="text-muted">@Model.Brand • @Model.Color</p>
+                <p>@Model.Category?.Name</p>
+                <p class="h4">@Model.Price.ToString("C")</p>
+
+                <form asp-area="" asp-controller="Cart" asp-action="Add" method="post" class="d-inline">
+                    <input type="hidden" name="productId" value="@Model.ProductId" />
+                    <input type="hidden" name="quantity" value="1" />
+                    <button type="submit" class="btn btn-success">Add to Cart</button>
+                </form>
+
+                <a asp-area="" asp-action="Index" class="btn btn-secondary ms-2">Back</a>
+            </div>
+        </div>
+    </div>
+</div>
