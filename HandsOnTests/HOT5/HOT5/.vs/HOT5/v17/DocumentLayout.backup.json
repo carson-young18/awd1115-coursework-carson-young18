@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AEB66796-7C69-4B4F-B9E3-4A23D02C16F3}|GenericStore\\GenericStore.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot5\\hot5\\genericstore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB66796-7C69-4B4F-B9E3-4A23D02C16F3}|GenericStore\\GenericStore.csproj|solutionrelative:genericstore\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB66796-7C69-4B4F-B9E3-4A23D02C16F3}|GenericStore\\GenericStore.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot5\\hot5\\genericstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB66796-7C69-4B4F-B9E3-4A23D02C16F3}|GenericStore\\GenericStore.csproj|solutionrelative:genericstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEB66796-7C69-4B4F-B9E3-4A23D02C16F3}|GenericStore\\GenericStore.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\handsontests\\hot5\\hot5\\genericstore\\areas\\admin\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB66796-7C69-4B4F-B9E3-4A23D02C16F3}|GenericStore\\GenericStore.csproj|solutionrelative:genericstore\\areas\\admin\\controllers\\usermanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,99 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserManagerController.cs",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
-              "RelativeToolTip": "GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T21:18:04.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwBoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T21:17:51.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:11:31.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:11:04.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:08:35.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:08:29.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:06:21.134Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:955966990:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
@@ -161,7 +78,118 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "GenericStore\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "GenericStore\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:51:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Program.cs",
+              "RelativeDocumentMoniker": "GenericStore\\Program.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Program.cs",
+              "RelativeToolTip": "GenericStore\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T23:46:25.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
+              "RelativeToolTip": "GenericStore\\Areas\\Admin\\Controllers\\UserManagerController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T21:18:04.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GenericStore\\Areas\\Account\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T21:17:51.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T21:11:31.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T21:11:04.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T21:08:35.339Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GenericStore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T21:08:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T21:06:21.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Account\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "GenericStore\\Areas\\Account\\Views\\Account\\Register.cshtml",
@@ -169,12 +197,11 @@
               "RelativeToolTip": "GenericStore\\Areas\\Account\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:06:46.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T21:06:46.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GenericStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -182,12 +209,11 @@
               "RelativeToolTip": "GenericStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:01:57.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T21:01:57.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\HandsOnTests\\HOT5\\HOT5\\GenericStore\\Areas\\Admin\\Views\\UserManager\\Index.cshtml",
               "RelativeDocumentMoniker": "GenericStore\\Areas\\Admin\\Views\\UserManager\\Index.cshtml",
@@ -195,8 +221,7 @@
               "RelativeToolTip": "GenericStore\\Areas\\Admin\\Views\\UserManager\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T21:01:50.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T21:01:50.588Z"
             }
           ]
         }
