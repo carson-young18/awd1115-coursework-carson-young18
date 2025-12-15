@@ -1,4 +1,4 @@
-﻿@model Build
+﻿@model BuildViewModel
 @{
 	ViewBag.Title = $"{ViewBag.Operation} Build";
 }
@@ -6,36 +6,40 @@
 <h1>@ViewBag.Operation Build</h1>
 
 <form asp-action="AddEdit" method="post">
-	<input type="hidden" asp-for="BuildId" />
+	<input type="hidden" asp-for="Build.BuildId" />
 
-	<div class="form-group">
-		<label asp-for="Name"></label>
-		<input asp-for="Name" class="form-control" name="Name" />
-		<span asp-validation-for="Name" class="text-danger"></span>
+	<div class="form-group mb-2">
+		<label asp-for="Build.Name"></label>
+		<input asp-for="Build.Name" class="form-control" />
+		<span asp-validation-for="Build.Name" class="text-danger"></span>
 	</div>
-	<div class="row">
+	<div class="row mb-2">
 		<div class="col">
-			<label asp-for="CategoryId" class="form-label">Category</label>
-			<select asp-for="CategoryId" class="form-select" asp-items="@(new SelectList(ViewBag.Categories, "CategoryId", "Name"))">
+			<label asp-for="Build.CategoryId" class="form-label">Category</label>
+			<select asp-for="Build.CategoryId" class="form-select" asp-items="@(new SelectList(Model.Categories ?? Enumerable.Empty<Category>(), "CategoryId", "Name"))">
 				<option value="">Choose a Category</option>
 			</select>
+			<span asp-validation-for="Build.CategoryId" class="text-danger"></span>
 		</div>
 		<div class="col">
-			<label asp-for="ChampionId" class="form-label">Champion</label>
-			<select asp-for="ChampionId" class="form-select" asp-items="@(new SelectList(ViewBag.Champions, "ChampionId", "Name"))">
+			<label asp-for="Build.ChampionId" class="form-label">Champion</label>
+			<select asp-for="Build.ChampionId" class="form-select" asp-items="@(new SelectList(Model.Champions ?? Enumerable.Empty<Champion>(), "ChampionId", "Name"))">
 				<option value="">Choose a Champion</option>
 			</select>
+			<span asp-validation-for="Build.ChampionId" class="text-danger"></span>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row mb-2">
 		<div class="form-check-inline">
-			@foreach (Item item in ViewBag.Items)
+			@if (Model.Items != null)
 			{
-				bool isChecked = Model.BuildItems != null && Model.BuildItems.Any(i => i.ItemId == item.ItemId);
-				<input type="checkbox" class="form-check-input" id="@item.ItemId" name="itemIds" value="@item.ItemId"
-					   @(isChecked ? "checked" : "") />
-				<label class="form-check-label" for="@item.ItemId">@item.Name</label>
-
+				foreach (Item item in Model.Items)
+				{
+					bool isChecked = Model.Build?.BuildItems != null && Model.Build.BuildItems.Any(i => i.ItemId == item.ItemId);
+					<input type="checkbox" class="form-check-input" id="item-@item.ItemId" name="ItemIds" value="@item.ItemId"
+						   @(isChecked ? "checked" : "") />
+					<label class="form-check-label" for="item-@item.ItemId">@item.Name</label>
+				}
 			}
 		</div>
 	</div>

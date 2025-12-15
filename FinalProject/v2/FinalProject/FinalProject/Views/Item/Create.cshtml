@@ -1,20 +1,22 @@
-﻿@model Item
+﻿@model ItemViewModel
 @{
 	ViewBag.Title = "Create Item";
 }
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 
 <div class="row">
 	<div class="col-md-4">
 		<form asp-action="Create" method="post">
 			<div class="form-group">
-				<label asp-for="Name"></label>
-				<input asp-for="Name" class="form-control" />
-				<span asp-validation-for="Name" class="text-danger"></span>
+				<label asp-for="Item.Name"></label>
+				<input asp-for="Item.Name" class="form-control" />
+				<span asp-validation-for="Item.Name" class="text-danger"></span>
 			</div>
 			<div class="form-group">
-				<label asp-for="Cost"></label>
-				<input asp-for="Cost" class="form-control" />
-				<span asp-validation-for="Cost" class="text-danger"></span>
+				<label asp-for="Item.Cost"></label>
+				<input asp-for="Item.Cost" class="form-control mb-2" />
+				<span asp-validation-for="Item.Cost" class="text-danger"></span>
 			</div>
 			<button type="submit" class="btn btn-primary">Create</button>
 			<a asp-action="Index" class="btn btn-secondary">Back to List</a>

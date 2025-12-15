@@ -1,11 +1,11 @@
-﻿@model Champion
+﻿@model ChampionViewModel
 @{
 	ViewBag.Title = "Champion Details";
 }
 
-<h1>@Model.Name Details</h1>
+<h1>@Model.Champion.Name Details</h1>
 
-@if(Model.Builds != null && Model.Builds.Any())
+@if (Model.Champion.Builds != null && Model.Champion.Builds.Any())
 {
 	<h4>Builds</h4>
 	<table class="table">
@@ -16,7 +16,7 @@
 			</tr>
 		</thead>
 		<tbody>
-			@foreach(var build in Model.Builds)
+			@foreach (var build in Model.Champion.Builds)
 			{
 				<tr>
 					<td>@build.Name</td>

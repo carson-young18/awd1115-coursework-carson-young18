@@ -1,18 +1,20 @@
-﻿@model Champion
+﻿@model ChampionViewModel
 @{
-	ViewBag.Title = $"Edit {Model.Name} Champion";
+	ViewBag.Title = $"Edit {Model.Champion.Name} Champion";
 }
 
-<h3>Edit Item</h3>
-<form asp-action="Edit" method="post">
-	<input type="hidden" asp-for="ChampionId" />
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<h3>Edit Champion</h3>
+<form asp-action="Edit" method="post" class="w-50">
+	<input type="hidden" asp-for="Champion.ChampionId" />
 	<div class="form-group">
-		<label asp-for="Name"></label>
-		<input asp-for="Name" class="form-control" />
-		<span asp-validation-for="Name" class="text-danger"></span>
+		<label asp-for="Champion.Name"></label>
+		<input asp-for="Champion.Name" class="form-control" />
+		<span asp-validation-for="Champion.Name" class="text-danger"></span>
 	</div>
 
-	<div class="form-group">
+	<div class="form-group mt-2">
 		<input type="submit" value="Save" class="btn btn-primary" />
 		<a asp-action="Index" class="btn btn-default">Back to List</a>
 	</div>

@@ -90,8 +90,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:955966990:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1082592:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -102,8 +118,7 @@
               "RelativeToolTip": "TripLog2\\Models\\ViewModels\\Page2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T05:03:29.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T05:03:29.176Z"
             },
             {
               "$type": "Document",
@@ -128,8 +143,7 @@
               "RelativeToolTip": "TripLog2\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T05:01:40.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T05:01:40.476Z"
             },
             {
               "$type": "Document",
@@ -141,8 +155,7 @@
               "RelativeToolTip": "TripLog2\\Models\\ViewModels\\Page1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:58:16.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:58:16.814Z"
             },
             {
               "$type": "Document",
@@ -154,8 +167,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Trip\\Page1.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:45:36.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:45:36.279Z"
             },
             {
               "$type": "Document",
@@ -167,8 +179,7 @@
               "RelativeToolTip": "TripLog2\\Models\\DomainModels\\Accomodation.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:25:09.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:25:09.522Z"
             },
             {
               "$type": "Document",
@@ -180,8 +191,7 @@
               "RelativeToolTip": "TripLog2\\Models\\DomainModels\\Trip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:24:12.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:24:12.707Z"
             },
             {
               "$type": "Document",
@@ -193,8 +203,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:17:07.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:17:07.495Z"
             },
             {
               "$type": "Document",
@@ -206,8 +215,7 @@
               "RelativeToolTip": "TripLog2\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:11:41.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:11:41.583Z"
             },
             {
               "$type": "Document",
@@ -219,8 +227,7 @@
               "RelativeToolTip": "TripLog2\\Controllers\\TripController.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAswFwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:09:02.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:09:02.277Z"
             },
             {
               "$type": "Document",
@@ -232,8 +239,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Activity\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:03:20.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T04:03:20.223Z"
             },
             {
               "$type": "Document",
@@ -245,8 +251,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Activity\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T03:58:37.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:58:37.424Z"
             },
             {
               "$type": "Document",
@@ -258,8 +263,7 @@
               "RelativeToolTip": "TripLog2\\Controllers\\ActivityController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowDEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T03:53:44.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:53:44.041Z"
             },
             {
               "$type": "Document",
@@ -271,8 +275,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Accomodation\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T03:43:56.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:43:56.442Z"
             },
             {
               "$type": "Document",
@@ -284,8 +287,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Accomodation\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T03:22:17.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:22:17.651Z"
             },
             {
               "$type": "Document",
@@ -297,8 +299,7 @@
               "RelativeToolTip": "TripLog2\\Controllers\\AccomodationController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAIwEAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T03:19:41.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:19:41.255Z"
             },
             {
               "$type": "Document",
@@ -310,8 +311,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Destination\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T03:15:22.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:15:22.219Z"
             },
             {
               "$type": "Document",
@@ -323,8 +323,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T03:09:56.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T03:09:56.744Z"
             },
             {
               "$type": "Document",
@@ -336,8 +335,7 @@
               "RelativeToolTip": "TripLog2\\Views\\Destination\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T02:48:44.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T02:48:44.826Z"
             },
             {
               "$type": "Document",
@@ -349,8 +347,7 @@
               "RelativeToolTip": "TripLog2\\Controllers\\DestinationController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAiwDAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T02:15:17.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T02:15:17.301Z"
             }
           ]
         }

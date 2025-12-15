@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2025-12-15T03:00:54.4237260Z||;True|2025-12-14T20:35:05.4424533-06:00||;False|2025-12-14T20:30:56.7934490-06:00||;False|2025-12-14T20:25:27.2138353-06:00||;False|2025-12-14T20:19:20.0561920-06:00||;False|2025-12-14T20:14:57.1710144-06:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:leaguebuilderdbserver.database.windows.net,1433%3bInitial Catalog=LeagueBuilder_db%3bPersist Security Info=False%3bUser ID=CloudSA34a38cd7%3bPassword=Password1%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="FinalProject.Data.ApplicationDbContext">
+      <Value>Server=tcp:leaguebuilderdbserver.database.windows.net,1433%3bInitial Catalog=LeagueBuilder_db%3bPersist Security Info=False%3bUser ID=CloudSA34a38cd7%3bPassword=Password1%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

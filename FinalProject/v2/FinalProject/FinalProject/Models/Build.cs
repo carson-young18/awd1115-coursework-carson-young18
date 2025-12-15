@@ -19,6 +19,7 @@ namespace FinalProject.Models
         [Required]
         public int ChampionId { get; set; }
         public int TotalCost { get; set; }
+        [Required]
         public string? Name { get; set; }
 
         [NotMapped]

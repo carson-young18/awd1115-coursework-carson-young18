@@ -1,15 +1,17 @@
-﻿@model Champion
+﻿@model ChampionViewModel
 @{
 	ViewBag.Title = "Create Champion";
 }
 
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
 <div class="row">
 	<div class="col-md-4">
 		<form asp-action="Create" method="post">
-			<div class="form-group">
-				<label asp-for="Name"></label>
-				<input asp-for="Name" class="form-control" />
-				<span asp-validation-for="Name" class="text-danger"></span>
+			<div class="form-group mb-2">
+				<label asp-for="Champion.Name"></label>
+				<input asp-for="Champion.Name" class="form-control" />
+				<span asp-validation-for="Champion.Name" class="text-danger"></span>
 			</div>
 
 			<button type="submit" class="btn btn-primary">Create</button>

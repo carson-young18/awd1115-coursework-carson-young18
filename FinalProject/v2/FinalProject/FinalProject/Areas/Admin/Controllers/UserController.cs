@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using FinalProject.Models;
+using FinalProject.ViewModels;
 
 namespace FinalProject.Areas.Admin.Controllers
 {

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\home\\addaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\addaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\home\\adddestination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\adddestination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,22 +47,6 @@
       "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\addactivities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\home\\addaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\addaccommodation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\home\\adddestination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\adddestination.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|c:\\users\\carso\\desktop\\awd1115-coursework-carson-young18\\labs\\ch08\\ch8lab\\tripplannerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{74B5C932-0C1C-4A74-88AD-4633F22F5323}|TripPlannerApp\\TripPlannerApp.csproj|solutionrelative:tripplannerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -66,11 +66,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:955966990:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1082592:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TripPlannerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TripPlannerApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:03:03.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AddActivities.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Views\\Home\\AddActivities.cshtml",
               "RelativeDocumentMoniker": "TripPlannerApp\\Views\\Home\\AddActivities.cshtml",
@@ -82,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "AddAccommodation.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Views\\Home\\AddAccommodation.cshtml",
               "RelativeDocumentMoniker": "TripPlannerApp\\Views\\Home\\AddAccommodation.cshtml",
@@ -94,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AddDestination.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Views\\Home\\AddDestination.cshtml",
               "RelativeDocumentMoniker": "TripPlannerApp\\Views\\Home\\AddDestination.cshtml",
@@ -106,13 +135,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TripPlannerApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "TripPlannerApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T22:07:50.977Z"
             },
@@ -130,19 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TripPlannerApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TripPlannerApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAA8wFoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T22:03:03.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TripActivitiesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Models\\ViewModels\\TripActivitiesViewModel.cs",
               "RelativeDocumentMoniker": "TripPlannerApp\\Models\\ViewModels\\TripActivitiesViewModel.cs",
@@ -150,8 +167,7 @@
               "RelativeToolTip": "TripPlannerApp\\Models\\ViewModels\\TripActivitiesViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T22:00:38.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T22:00:38.404Z"
             },
             {
               "$type": "Document",
@@ -179,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20251012215034_initial.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Migrations\\20251012215034_initial.cs",
               "RelativeDocumentMoniker": "TripPlannerApp\\Migrations\\20251012215034_initial.cs",
@@ -191,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Program.cs",
               "RelativeDocumentMoniker": "TripPlannerApp\\Program.cs",
@@ -203,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\appsettings.json",
               "RelativeDocumentMoniker": "TripPlannerApp\\appsettings.json",
@@ -215,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TripPlannerApp\\Data\\AppDbContext.cs",
@@ -227,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Trip.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Models\\Trip.cs",
               "RelativeDocumentMoniker": "TripPlannerApp\\Models\\Trip.cs",
@@ -235,8 +251,7 @@
               "RelativeToolTip": "TripPlannerApp\\Models\\Trip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:37:25.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T21:37:25.125Z"
             }
           ]
         }

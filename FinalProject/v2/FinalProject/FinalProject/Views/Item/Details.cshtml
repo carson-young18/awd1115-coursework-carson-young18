@@ -1,11 +1,11 @@
-﻿@model Item
+﻿@model ItemViewModel
 @{
 	ViewBag.Title = "Item Details";
 }
 
-<h1>@Model.Name Details</h1>
+<h1>@Model.Item.Name Details</h1>
 
-@if(Model.BuildItems != null && Model.BuildItems.Any())
+@if (Model.Item.BuildItems != null && Model.Item.BuildItems.Any())
 {
 	<h4>Builds</h4>
 	<table class="table">
@@ -16,7 +16,7 @@
 			</tr>
 		</thead>
 		<tbody>
-			@foreach(var buildItem in Model.BuildItems)
+			@foreach (var buildItem in Model.Item.BuildItems)
 			{
 				<tr>
 					<td>@buildItem.Build.Name</td>

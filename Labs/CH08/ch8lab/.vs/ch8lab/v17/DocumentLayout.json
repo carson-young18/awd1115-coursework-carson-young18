@@ -66,8 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:955966990:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1082592:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TripPlannerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TripPlannerApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:03:03.487Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 10,
@@ -90,8 +119,7 @@
               "RelativeToolTip": "TripPlannerApp\\Views\\Home\\AddAccommodation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T22:20:01.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T22:20:01.658Z"
             },
             {
               "$type": "Document",
@@ -103,8 +131,7 @@
               "RelativeToolTip": "TripPlannerApp\\Views\\Home\\AddDestination.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T22:09:53.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T22:09:53.606Z"
             },
             {
               "$type": "Document",
@@ -116,8 +143,7 @@
               "RelativeToolTip": "TripPlannerApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T22:07:50.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T22:07:50.977Z"
             },
             {
               "$type": "Document",
@@ -133,19 +159,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TripPlannerApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TripPlannerApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T22:03:03.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TripActivitiesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\carso\\Desktop\\awd1115-coursework-carson-young18\\Labs\\CH08\\ch8lab\\TripPlannerApp\\Models\\ViewModels\\TripActivitiesViewModel.cs",
@@ -154,8 +167,7 @@
               "RelativeToolTip": "TripPlannerApp\\Models\\ViewModels\\TripActivitiesViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T22:00:38.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T22:00:38.404Z"
             },
             {
               "$type": "Document",
@@ -239,8 +251,7 @@
               "RelativeToolTip": "TripPlannerApp\\Models\\Trip.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T21:37:25.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T21:37:25.125Z"
             }
           ]
         }

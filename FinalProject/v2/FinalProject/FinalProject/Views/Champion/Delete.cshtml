@@ -1,13 +1,13 @@
-﻿@model Champion
+﻿@model ChampionViewModel
 @{
-	ViewBag.Title = $"Delete {Model.Name} Champion";
+	ViewBag.Title = $"Delete {Model.Champion.Name} Champion";
 }
 
 <h3>Are you sure you want to delete this?</h3>
 <div>
-	<h4>@Model.Name</h4>
+	<h4>@Model.Champion.Name</h4>
 	<form asp-action="Delete" method="post">
-		<input type="hidden" asp-for="ChampionId" />
+		<input type="hidden" asp-for="Champion.ChampionId" />
 		<input type="submit" value="Delete" class="btn btn-primary" />
 		<a asp-action="Index" class="btn btn-default">Back to List</a>
 	</form>

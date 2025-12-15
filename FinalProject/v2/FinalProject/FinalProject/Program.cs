@@ -16,6 +16,22 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
+builder.Services.Configure<RouteOptions>(options =>
+{
+    options.LowercaseUrls = true;
+    options.AppendTrailingSlash = false;
+});
+
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(20);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+builder.Services.AddHttpClient<RiotApiService>();
+builder.Services.AddMemoryCache();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -35,12 +51,29 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseSession();
+
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "areas",
-    pattern: "{area:exists}/{controller=Admin}/{action=Index}/{id?}");
+    pattern: "{area:exists}/{controller=User}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "build_list",
+    pattern: "builds",
+    defaults: new { controller = "Build", action = "Index" });
+
+app.MapControllerRoute(
+    name: "edit_build",
+    pattern: "builds/{id}/edit",
+    defaults: new { controller = "Build", action = "AddEdit" });
+
+app.MapControllerRoute(
+    name: "champion_details",
+    pattern: "champions/{id}",
+    defaults: new { controller = "Champion", action = "Details" });
 
 app.MapControllerRoute(
     name: "default",
